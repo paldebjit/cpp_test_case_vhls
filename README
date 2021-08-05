@@ -1,0 +1,9 @@
+## G++ and Vivado HLS code
+
+This repository contains Vivado HLS C++ code generated from 2mm benchmark. To compile using g++ run
+
+$make
+
+To clean
+
+$make clean

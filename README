@@ -1,9 +1,10 @@
-## G++ and Vivado HLS code
+#G++ and Vivado HLS code
 
 This repository contains Vivado HLS C++ code generated from 2mm benchmark. To compile using g++ run
 
-$make
+- Replace CINC_DIR with local Vivado HLS include dir
+- $make
 
 To clean
 
-$make clean
+- $make clean
